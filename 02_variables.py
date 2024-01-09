@@ -20,3 +20,12 @@ print(f"usando input, ahora el valor almacenado es : {MyNames}")
 
 MyAges = input('¿cual es tu edad?')
 print(MyAges)
+
+#ejemplo de una suma basica usando variables
+x=10
+y=5
+z=x+y
+
+print("el valor de x es: ",x)
+print("el valor de y es: ",y)
+print("total: ",z)
